@@ -1,0 +1,44 @@
+body {
+  background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20230610/pngtree-minecraft-castle-in-the-middle-of-the-mountains-image_2908465.jpg);
+  background-image: 100% 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#namenamename {
+  color: snow;
+}
+
+#mojang {
+  background-color: blueviolet;
+}
+
+#markus-Persson {
+  background-color: blanchedalmond;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: darkgray;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: gray;
+}
+
+#contact {
+}
